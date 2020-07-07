@@ -88,3 +88,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/StarterContent/
+Content/DemoRoom/
+Content/ExampleContent/Audio/Physical_Materials/Metal.uasset
+Content/ExampleContent/
+Content/InfinityBladeEffects/
